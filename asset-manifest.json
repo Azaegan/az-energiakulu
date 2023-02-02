@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/az-energiakulu/static/css/main.e6c13ad2.css",
+    "main.js": "/az-energiakulu/static/js/main.3b51aa63.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/az-energiakulu/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/az-energiakulu/index.html",
+    "main.e6c13ad2.css.map": "/az-energiakulu/static/css/main.e6c13ad2.css.map",
+    "main.3b51aa63.js.map": "/az-energiakulu/static/js/main.3b51aa63.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/az-energiakulu/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3b51aa63.js"
+  ]
+}
